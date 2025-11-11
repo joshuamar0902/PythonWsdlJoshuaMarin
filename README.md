@@ -16,3 +16,7 @@ El repositorio de este proyecto es: `https://github.com/joshuamar0902/PythonWsdl
 
 ---
 
+<img width="818" height="499" alt="image" src="https://github.com/user-attachments/assets/77073ae3-00f4-4600-9b39-49f587333050" />
+
+
+<img width="1210" height="774" alt="image" src="https://github.com/user-attachments/assets/a4a147bf-a8f2-4462-8a21-1ff7ec2a176a" />
